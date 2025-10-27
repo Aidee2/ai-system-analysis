@@ -1,0 +1,7 @@
+,word_count,sentence_count,avg_words_per_sentence,unique_words,vocabulary_richness,readability,sentiment,response_length,common_words
+simple_question,89,4,22.25,71,0.797752808988764,0,1.0,613,"[('to', 4), ('that', 4), ('and', 4), ('intelligence', 3), ('of', 3)]"
+creative_writing,118,9,13.11111111111111,97,0.8220338983050848,22.176374764595124,1.0,791,"[('the', 4), ('that', 3), ('every', 3), ('for', 3), ('first', 3)]"
+code_generation,101,2,50.5,58,0.5742574257425742,0,0.5,674,"[('n', 10), ('return', 6), ('==', 4), ('#', 4), ('or', 3)]"
+reasoning,129,9,14.333333333333334,81,0.627906976744186,35.54713178294577,0.5,791,"[('are', 8), ('roses', 7), ('flowers', 6), ('that', 5), ('we', 4)]"
+few_shot_learning,27,2,13.5,23,0.8518518518518519,17.66583333333338,0.5,173,"[('of', 3), ('capital', 2), ('the', 2), ('Rome', 1), ('The', 1)]"
+chain_of_thought,45,2,22.5,26,0.5777777777777777,42.9975,0.5,217,"[('=', 6), ('$15', 4), ('price', 4), ('Discount', 3), ('Original', 2)]"
